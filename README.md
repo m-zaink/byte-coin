@@ -1,6 +1,6 @@
 # Byte Coin iOS App
 
-This application is aimed at providing you the latest BitCoin converson prices against some very well known currencies such as USD, INR and AUD.
+This application is aimed at providing you the latest BitCoin conversion prices against some very well known currencies such as USD, INR and AUD.
 
 API Use: [BlockChain.info](https://blockchain.info/ticker)
 
@@ -11,3 +11,4 @@ API Use: [BlockChain.info](https://blockchain.info/ticker)
 ![Light Mode](LightScreenshot.png)
 ![Dark Mode](DarkScreenshot.png)
 
+Idea Credits: [London App Brewery](https://londonappbrewery.com)
