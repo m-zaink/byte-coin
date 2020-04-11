@@ -11,3 +11,4 @@ API Use: [BlockChain.info](https://blockchain.info/ticker)
 ![Light Mode](LightScreenshot.png)
 ![Dark Mode](DarkScreenshot.png)
 
+Idea Credits: [London App Brewery](https://londonappbrewery.com)
